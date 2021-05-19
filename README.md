@@ -11,10 +11,6 @@
     <a href="https://react-currency-converter-vhgc.netlify.app/">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
   </h3>
 </div>
 
@@ -24,9 +20,8 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
+- [Start](#start)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -41,8 +36,8 @@
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- css
 
+### Start
 #### `yarn start`
 
 Runs the app in the development mode.\
