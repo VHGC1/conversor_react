@@ -12,3 +12,14 @@
   margin: auto;
   max-width: 900px;
 }
+
+@media (max-width: 760px){
+  .linha {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .conversor {
+    margin-bottom: 30px;
+  }
+}
