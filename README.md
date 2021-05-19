@@ -1,14 +1,14 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Currency React converter</h1>
+<h1 align="center">React Currency Converter</h1>
 
 <div align="center">
-   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   This project was bootstrapped with <a href="https://github.com/facebook/create-react-app" target="_blank">Create React App</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://react-currency-converter-vhgc.netlify.app/">
       Demo
     </a>
     <span> | </span>
